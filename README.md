@@ -5,3 +5,5 @@ Simple HTML pages for absolute beginners to learn HTML and web development. This
 #### Stack:- HTML, CSS, JS
 
 #### 1. Simple Tribute page
+#### 2. Survey Form
+#### 3. Product Landing Page
